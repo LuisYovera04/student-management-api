@@ -21,7 +21,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
     Puedes descargar el zip del repositorio y extraerlo o usar el siguiente comando:
 
     ```bash
-    git clone <TU_LINK_DE_GITHUB_AQUI>
+    git clone <https://github.com/LuisYovera04/student-management-api/tree/main>
     cd student-management-api
     ```
 
