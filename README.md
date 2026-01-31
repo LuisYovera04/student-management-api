@@ -1,6 +1,6 @@
 # Student Management API
 
-Greetings! This is our RESTful API System developed by students **Luis Yovera (ID: 31.281.660)** and **Liz Falcon (ID: 30.924.770)**. This system handles student information management through **CRUD** operations, featuring data validation and database persistence.
+Greetings! This is our RESTful API System developed by students **Luis Yovera (CI: 31.281.660)** and **Liz Falcon (CI: 30.924.770)**. This system handles student information management through **CRUD** operations, featuring data validation and database persistence.
 
 ##  Technologies Used
 
